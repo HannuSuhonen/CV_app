@@ -7,7 +7,6 @@ import ContactForm from './MainForm.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <Header />
-    <ContactForm />
+    <App/>
   </StrictMode>,
 )
